@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gamut Gurus Technologies - Exclusive DevOps & Cloud Learning Hub</title>
+<title>IT Academy Technologies - Exclusive DevOps & Cloud Learning Hub</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1>Gamut Gurus DevOps & Cloud Learning Platform</h1> 
-			<h4>Contact: +91-944897 1000 Email: info@gamutgurus.com</h4> 
+			<h1>IT Academy DevOps & Cloud Learning Platform</h1> 
+			<h4>Contact: +91-944050 6070 Email: info@itacademy.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -93,7 +93,7 @@
 					has to choose Chef or Puppet.</p>
 			</div>
 			<div id="tabs-4">
-				<p>Motorola</p>
+				<p>Microsoft</p>
 				<p>Apple</p>
 			</div>
 		</div>
@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2020 Gamut Gurus Technologies. All rights Reserved.</footer>
+		<footer>@ 2023 IT Academy Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
